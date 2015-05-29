@@ -1,5 +1,4 @@
-# checkout-wiki
-Checkout's Wiki
+# Checkout's Wiki
 
 [Magento plugin](https://github.com/CKOTech/checkout-magento-plugin/wiki/Installation)
 
