@@ -19,3 +19,5 @@
 [WooCommerce plugin](https://github.com/CKOTech/checkout-woocommerce-plugin/wiki/Installation)
 
 [X-cart plugin](https://github.com/CKOTech/checkout-xcart-plugin/wiki/Installation)
+
+[Zencart plugin](https://github.com/CKOTech/checkout-zencart-plugin/wiki/Installation)
